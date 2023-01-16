@@ -1,0 +1,2 @@
+# Logistic_Regression_Income_Classification
+ Logistic_Regression_Income_Classification from 1994 census.
